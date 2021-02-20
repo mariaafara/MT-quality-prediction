@@ -13,7 +13,7 @@ Language pair: ende (English to German).
 
 ## Work done
 
-Our dataset contains 7000 samples of source, target, reference and the TER of which we want
+This dataset contains 7000 samples of source, target, reference and the TER of which we want
 to predict. The aim is to know whether we can predict the TER from the source sentence alone
 or from the source and the MT output in the aim of knowing the quality of the translation. This
 task is considered a Regression problem since the target variable is continuous (numeric).
